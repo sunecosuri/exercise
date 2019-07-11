@@ -11,7 +11,7 @@
     "vue",
     "vuehooks"
   ],
-  "author": "",
+  "author": "sunecosuri",
   "license": "MIT",
   "dependencies": {
     "vue": "2.5.22",
